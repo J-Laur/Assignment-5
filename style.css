@@ -1,0 +1,36 @@
+.flex-table {
+
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: center;
+}
+
+.flex-container {
+
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: center;
+}
+
+.flex-container2 {
+
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: center;
+}
+
+.row {
+
+    height: 100px;
+    width: 800px;
+}
+
+.menu {
+
+    font-family: verdana;
+    font-weight: bold;
+
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: center;
+}
